@@ -1,12 +1,4 @@
-/*
-  Theme Name: DevFolio
-  Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
 
-/*======================================
-//--//-->   STYLES GENERALES
 ======================================*/
 
 body {
@@ -612,8 +604,9 @@ a:hover {
 }
 
 .intro .overlay-itro {
-  background-color: rgba(0, 0, 0, 0.6);
-  position: absolute;
+     background: #2c3e50;
+    background: -webkit-linear-gradient(to right, #3498db, #2c3e50);
+    background: linear-gradient(to right, #000000e0, #3498dbd6);  position: absolute;
   top: 0;
   left: 0px;
   padding: 0;
