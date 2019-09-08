@@ -604,9 +604,10 @@ a:hover {
 }
 
 .intro .overlay-itro {
-     background: #2c3e50;
+  background-color: #3498dbd6;
     background: -webkit-linear-gradient(to right, #3498db, #2c3e50);
     background: linear-gradient(to right, #000000e0, #3498dbd6);  position: absolute;
+  position: absolute;
   top: 0;
   left: 0px;
   padding: 0;
